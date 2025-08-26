@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Zhan Heng",
   description: "Personal Portfolio of Zhan Heng",
   icons: {
-    icon: "ZHPortfolio/code.png",
+    icon: "/ZHPortfolio/code.png",
   },
 };
 
