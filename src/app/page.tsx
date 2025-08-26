@@ -23,12 +23,12 @@ export default function Home() {
   };
   
   const projects = [
-    { img: "/php.png", title: "E-learning Platform", desc: "PHP/HTML/CSS/Javascript/MySQL" },
-    { img: "/java.png", title: "Simple Booking System", desc: "Java/Apache NetBeans" },
-    { img: "/botpress.png", title: "Pangolin Care Center", desc: "Botpress" },
-    { img: "/flutter.png", title: "Medical Application", desc: "Flutter/FlutterFlow" },
-    { img: "/python.png", title: "Tower Defense Game", desc: "Python" },
-    { img: "/nextjs.png", title: "Allowance Counter", desc: "Next Js" },
+    { img: "/ZHPortfolio/php.png", title: "E-learning Platform", desc: "PHP/HTML/CSS/Javascript/MySQL" },
+    { img: "/ZHPortfolio/java.png", title: "Simple Booking System", desc: "Java/Apache NetBeans" },
+    { img: "/ZHPortfolio/botpress.png", title: "Pangolin Care Center", desc: "Botpress" },
+    { img: "/ZHPortfolio/flutter.png", title: "Medical Application", desc: "Flutter/FlutterFlow" },
+    { img: "/ZHPortfolio/python.png", title: "Tower Defense Game", desc: "Python" },
+    { img: "/ZHPortfolio/nextjs.png", title: "Allowance Counter", desc: "Next Js" },
   ]; 
 
   return (
@@ -115,7 +115,7 @@ export default function Home() {
               {/* Profile image */}
               <div className="relative w-80 h-80 rounded-full overflow-hidden">
                 <Image
-                  src="/profile.png"
+                  src="/ZHPortfolio/profile.png"
                   alt="Zhan Heng"
                   width={320}
                   height={320}
