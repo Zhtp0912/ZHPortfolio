@@ -46,7 +46,7 @@ export default function Home() {
         <div className="flex-1 text-left relative z-10">
           <div>
             <h2 className="text-xl sm:text-2xl font-bold mb-4 text-blue-600">Hey There!</h2> 
-            <h1 className="text-4xl sm:text-6xl font-bold mb-4 text-gray-900">I am Zhan Heng</h1> 
+            <h1 className="text-4xl sm:text-6xl font-bold mb-4 text-gray-900">I amsfasffasfasf</h1> 
             <p className="text-lg sm:text-xl mb-6 text-purple-600 font-medium">A passionate Developer building modern IT applications</p>
             <p className="text-gray-600 leading-relaxed mb-8">
               Motivated and dedicated programmer with an eagerness 
