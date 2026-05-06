@@ -10,7 +10,7 @@ import Footer from "./components/sections/Footer";
 
 export default function HomePage() {
   return (
-    <main className="font-sans bg-white text-gray-800">v
+    <main className="font-sans bg-white text-gray-800">
       <Hero />
       <Ecv />
       <Skills />
