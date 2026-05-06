@@ -8,7 +8,7 @@ export const skillsData: Record<string, string[]> = {
   
   export const projects = [
     { img: "/ZHPortfolio/php.png", title: "E-learning Platform", desc: "PHP/HTML/CSS/Javascript/MySQL" },
-    { img: "/ZHPortfolio/java.png", title: "Appintment System", desc: "Java/Apache NetBeans" },
+    { img: "/ZHPortfolio/java.png", title: "Appointment System", desc: "Java/Apache NetBeans" },
     { img: "/ZHPortfolio/botpress.png", title: "Pangolin Care Center", desc: "Botpress" },
     { img: "/ZHPortfolio/flutter.png", title: "Medical Application", desc: "Flutter/FlutterFlow" },
     { img: "/ZHPortfolio/python.png", title: "Tower Defense Game", desc: "Python" },
