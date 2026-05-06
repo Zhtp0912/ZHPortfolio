@@ -18,7 +18,7 @@ export default function PortfolioCarousel() {
         {/* Header */}
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-gray-900 mb-3">Portfolio</h2>
-          <p className="text-gray-400">A selection of projects I've built</p>
+          <p className="text-gray-400">A selection of projects I&apos;ve built</p>
         </div>
 
         {/* Carousel */}
