@@ -41,7 +41,7 @@ export default function Footer() {
         </div>
   
         <div className="mt-10 pt-6 border-t border-white/20 text-center">
-          <p className="text-sm text-white/70">© 2025 CHO ZHAN HENG | All rights reserved.</p>
+          <p className="text-sm text-white/70">© 2026 CHO ZHAN HENG | All rights reserved.</p>
         </div>
       </footer>
     );

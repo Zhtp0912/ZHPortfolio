@@ -1,14 +1,14 @@
 // Central place for arrays/objects used by sections
 export const skillsData: Record<string, string[]> = {
-    Frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind", "FlutterFlow"],
-    Backend: ["PHP", "Node.js", "MySQL", "Python", "Java", "C++", "Flutter"],
+    Frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind", "FlutterFlow","Visual Basic", "C#"],
+    Backend: ["PHP", "Node.js", "MySQL", "Python", "Java", "C++", "Flutter", "Visual Basic", "C#"],
     Microsoft: ["Access", "Excel", "Powerpoint", "Word"],
     Tools: ["Figma", "Canva", "GitHub", "Bitbucket", "Jira"],
   };
   
   export const projects = [
     { img: "/ZHPortfolio/php.png", title: "E-learning Platform", desc: "PHP/HTML/CSS/Javascript/MySQL" },
-    { img: "/ZHPortfolio/java.png", title: "Simple Booking System", desc: "Java/Apache NetBeans" },
+    { img: "/ZHPortfolio/java.png", title: "Appintment System", desc: "Java/Apache NetBeans" },
     { img: "/ZHPortfolio/botpress.png", title: "Pangolin Care Center", desc: "Botpress" },
     { img: "/ZHPortfolio/flutter.png", title: "Medical Application", desc: "Flutter/FlutterFlow" },
     { img: "/ZHPortfolio/python.png", title: "Tower Defense Game", desc: "Python" },
@@ -18,6 +18,7 @@ export const skillsData: Record<string, string[]> = {
   export const services = [
     { title: "Web Development", desc: "Building responsive and modern websites", color: "blue" as const },
     { title: "UI/UX Design", desc: "Designing user-friendly interfaces", color: "purple" as const },
+    { title: "Windows App Development", desc: "Building native Windows desktop applications", color: "green" as const },
   ];
   
   export const qualifications = [
@@ -28,6 +29,6 @@ export const skillsData: Record<string, string[]> = {
       place: "Asia Pacific University (APU)", period: "2022–2024", highlight: "CGPA: 3.4" },
     { color: "green",  title: "Full Stack Programmer (Internship)", place: "IPS Software", period: "2024 May - 2024 July" },
     { color: "orange", title: "Bachelor of Computer Science (Hons) (Artificial Intelligence)",
-      place: "Asia Pacific University (APU)", period: "2024–Present", highlight: "CGPA: 3.35" },
+      place: "Asia Pacific University (APU)", period: "2024–Present", highlight: "CGPA: 3.28" },
+    { color: "teal",  title: "Software Engineer (Internship)", place: "Coherent Corp.", period: "2025 September - 2026 January" },
   ];
-  
